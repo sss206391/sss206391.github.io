@@ -1,9 +1,10 @@
-### About
-I'm an M.S. student in the [Natural Language Processing (NLP) Group](https://nlp.postech.ac.kr/), working with [Prof. Gary Geunbae Lee](https://sites.google.com/view/gary-geunbae-lee/) and [Prof. Hyounghun Kim](https://hyounghk.github.io/) at POSTECH. Before joining POSTECH, I completed a B.S. degree in Electrical Engineering at Hanyang University ERICA.
+### About Me 
+* I completed my master's degree in bioinformatics at Chonnam National University.
+* I am currently researching on drug discovery using generative AI.
+* I am passionate about bridging the gap between computational methods and pharmaceutical applications, with a particular focus on leveraging machine learning to accelerate the drug discovery pipeline.
+* I am interested in deep learning, generative AI, bioinformatics, drug discovery.
 
-My current research focuses on reasoning agents. In addition, I explore retrieval-augmented generation and question answering.
-
-### Publications ([Google Scholar](https://scholar.google.com/citations?user=PwdC6ewAAAAJ&hl))
+### Publications ([Google Scholar](https://scholar.google.co.kr/citations?user=neCdcgcAAAAJ&hl=ko))
 * Self-Correcting Code Generation Using Small Language Models<br>
 <ins>Jeonghun Cho</ins>, Deokhyung Kang, Hyounghun Kim, and Gary Geunbae Lee<br>
 arXiv preprint arXiv:2505.23060. [[paper](https://arxiv.org/abs/2505.23060)][[code](https://github.com/jeonghun3572/CoCoS)]<br>
